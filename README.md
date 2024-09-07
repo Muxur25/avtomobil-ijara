@@ -40,7 +40,8 @@ Avval login qilib oling:
 
 Loyihani birinchi o'rnatganingizda faqat quyidagi email va passwordlar orqali  login qilishingiz va yangi admin(yoki user) larni (rollarni) create qilishingiz mumkin:
 
-enail: superadmin@email.com
+email: superadmin@email.com
+
 password: .env faylidagi passwordingiz
 
 
