@@ -30,7 +30,9 @@ npm run dev
 
 
 ------------------------------------------------------------------------------------------
-loyihani tekshirish uchun postmandan foydalanin va tekshirish faylini loyiha ichidan topasiz va uni import qilasz
+loyihani tekshirish uchun postmandan foydalanin loyiha apisi haqida:
+
+https://www.postman.com/flight-astronaut-23900408/avtomobil/collection/uxos137/avtomobil-ijarasi-copy?action=share&creator=36964233
 
 
 ------------------------------------------------------------------------------------------
