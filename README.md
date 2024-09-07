@@ -30,9 +30,7 @@ npm run dev
 
 
 ------------------------------------------------------------------------------------------
-loyihani tekshirish uchun postmandan foydalanin quyidagi link orqali import qilib oling:
-
-(https://api.postman.com/collections/36964233-5075c608-f885-4147-b5ed-a12ebcccdfa3?access_key=PMAT-01J753PETK6SZ86XAFPM5YN6RA)
+loyihani tekshirish uchun postmandan foydalanin va tekshirish faylini loyiha ichidan topasiz va uni import qilasz
 
 
 ------------------------------------------------------------------------------------------
