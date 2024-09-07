@@ -32,7 +32,7 @@ npm run dev
 ------------------------------------------------------------------------------------------
 loyihani tekshirish uchun postmandan foydalanin quyidagi link orqali import qilib oling:
 
-https://api.postman.com/collections/36964233-1de83f97-c937-4c94-b20b-9002682175d7?access_key=PMAT-01J752KR2X9304WKPT8K6WBVT5
+(https://api.postman.com/collections/36964233-5075c608-f885-4147-b5ed-a12ebcccdfa3?access_key=PMAT-01J753PETK6SZ86XAFPM5YN6RA)
 
 
 ------------------------------------------------------------------------------------------
